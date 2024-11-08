@@ -27,7 +27,7 @@ Bookshelf API adalah aplikasi RESTful yang memungkinkan Anda untuk mengelola kol
 
 ## Persyaratan
 
-- Node.js (12.x atau lebih baru)
+- Node.js (18.13.0 atau lebih baru)
 - npm (Node Package Manager)
 
 ## Instalasi
