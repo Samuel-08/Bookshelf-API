@@ -35,8 +35,8 @@ Bookshelf API adalah aplikasi RESTful yang memungkinkan Anda untuk mengelola kol
 1. **Clone Repository**
 
    ```bash
-   git clone https://github.com/username/repo.git
-   cd repo
+   git clone https://github.com/Samuel-08/Bookshelf-API.git
+   cd Bookshelf-API
    ```
 
 2. **Instal Dependensi**
