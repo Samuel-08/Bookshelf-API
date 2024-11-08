@@ -194,7 +194,7 @@ Mengambil informasi buku berdasarkan ID.
       }
     }
   }
-  `
+  
   ```
 - **404 Not Found**
 
